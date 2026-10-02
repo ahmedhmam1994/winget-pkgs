@@ -1,0 +1,17 @@
+PackageIdentifier: ahmedhmam1994.VoxScribe
+PackageVersion: 1.6.5
+InstallerType: inno
+Scope: user
+InstallModes:
+- interactive
+- silent
+- silentWithProgress
+UpgradeBehavior: install
+ReleaseDate: 2026-10-02
+Installers:
+- Architecture: x64
+  InstallerUrl: https://github.com/ahmedhmam1994/voxscribe-ai-voice-dictation/releases/download/v1.6.5/VoxScribe-Setup.exe
+  InstallerSha256: 46D18C26125F5F8C69F9493A372C06EF67FBF072CFC8CDEB2A4B964A72B066FD
+  ProductCode: VoxScribe_is1
+ManifestType: installer
+ManifestVersion: 1.6.0
